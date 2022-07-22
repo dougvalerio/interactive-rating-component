@@ -11,7 +11,7 @@
     <body>
         <div class="container">
             <div class="card">
-                <div class="content-1">
+                <div id="content-1" class="content-1">
                     <div class="bg-star">
                         <img class="star" src="./images/icon-star.svg" alt="">
                     </div>
@@ -21,7 +21,7 @@
         
                     <div>
                         <ul>
-                            <li class="active">1</li>
+                            <li>1</li>
                             <li>2</li>
                             <li>3</li>
                             <li>4</li>
@@ -29,13 +29,13 @@
                         </ul>
                     </div>
         
-                    <button class="btn" onclick="enviar()">Submit</button>
+                    <button class="btn" onclick="submit()">Submit</button>
                 </div>
-                <div class="content-2">
+                <div id="content-2" class="content-2">
                     <img src="./images/illustration-thank-you.svg" alt="">
 
                     <div class="bg-p">
-                        <p class="p-1">You selected <span>4</span> out of 5</p> 
+                        <p class="p-1">You selected <span id="grade">4</span> out of 5</p> 
                     </div>
 
                     <h2>Thank you!</h2>
