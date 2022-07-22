@@ -21,4 +21,6 @@ O desafio pode ser encontrado neste [_link_](https://www.frontendmentor.io/chall
 - [x]  Uso de variáveis globais no `:root`
 - [x]  Uso do CSS `Flexbox`
 - [x]  Importação de `font` do [Google Fonts](https://fonts.google.com/);
-- [ ]  Uso do Javascript
+- [x]  Manipulação de `Arrays`
+- [x]  Uso de Eventos
+
