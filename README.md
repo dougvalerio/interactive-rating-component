@@ -1,5 +1,5 @@
 <h1 align="center">
-  NFT CARD COMPONENT
+  INTERACTIVE RATING COMPONENT
 </h1>
 
 ## 💻 Projeto
